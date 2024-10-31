@@ -9,3 +9,5 @@ https://github.com/alekssawa/LB4_Radar Ready for check
 https://github.com/alekssawa/LB5_GPS Ready for check
 
 https://github.com/alekssawa/LB6_Loran Ready for check
+
+https://github.com/alekssawa/FilterKalmana Ready for check
